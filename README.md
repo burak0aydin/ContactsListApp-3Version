@@ -3,6 +3,8 @@
 ## Overview
 ContactsApp is an iOS application that provides a complete contact management solution. Built using the MVVM architecture and powered by RxSwift, the app allows users to view, search, add, update, and delete contacts. It also uses a local SQLite database (contacts.sqlite) for data persistence.
 
+https://github.com/user-attachments/assets/0049666a-76f5-4fa5-b0f1-3fb531ff4a50
+
 ## Features
 - **View Contacts:** Display a dynamic list of contacts with names and phone numbers.
 - **Search:** Filter contacts in real time using the search bar.
